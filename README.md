@@ -1,5 +1,3 @@
-<!-- HEADER -->
-
 <h1 align="center">Hi, I'm Asim Pun Magar 👋</h1>
 <h3 align="center">Junior Digital Technology & Software Developer from Nepal</h3>
 
@@ -19,16 +17,16 @@
 
 ## 👨‍💻 About Me
 
-I’m a junior Digital Technology & Software Developer from Nepal, focused on building modern, responsive web applications.  
-I enjoy working with Python/Django, React.js, WordPress, and frontend technologies to turn ideas into clean, functional user experiences.
+I am a junior Digital Technology & Software Developer from Nepal with a strong focus on modern web development.  
+I like turning ideas into fast, responsive and user‑friendly web applications using a mix of backend and frontend technologies.
 
-- 🌍 Based in Nepal  
-- 🎓 Science background with a strong interest in software development  
-- 💼 Experience as a junior developer / intern working on real web projects  
-- 💡 Passionate about full‑stack development, UI/UX, and practical digital solutions  
-- 🎯 Goal: Grow into a strong full‑stack developer with production‑ready projects in my portfolio  
+- Based in Nepal  
+- Science background with a passion for software development  
+- Experience working on real projects as a junior developer / intern  
+- Interested in full‑stack development, UI/UX and practical digital products  
+- Focused on building a solid portfolio of production‑ready projects  
 
-You can learn more about me and my work on my portfolio: **[asimpunmagar.com.np](https://asimpunmagar.com.np)**.
+More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)**
 
 ---
 
@@ -51,7 +49,7 @@ You can learn more about me and my work on my portfolio: **[asimpunmagar.com.np]
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 </p>
 
-### Tools & Workflow
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -61,86 +59,74 @@ You can learn more about me and my work on my portfolio: **[asimpunmagar.com.np]
 
 ---
 
-## 💡 What I Do
+## 💡 What I Build
 
-- **Portfolio & Personal Branding Websites** – clean, responsive sites that present people and their work.  
-- **Django Web Applications** – server‑side apps with templates, forms, models, and core business logic.  
-- **React.js Frontends** – component‑based UIs with modern JavaScript and reusable design.  
-- **WordPress Sites** – content‑driven sites and blogs with theme customization.  
-- **UI / Frontend Implementation** – sections, layouts, and interactions that feel smooth and user‑friendly.  
+- Portfolio and personal branding websites  
+- Django based web applications  
+- React.js user interfaces  
+- WordPress powered websites and blogs  
+- Frontend layouts with attention to responsiveness and usability  
 
 ---
 
 ## 💼 Experience & Education
 
-- 🧑‍💻 **Junior Digital Technology & Software Developer**  
-  *EasyMy Learning Pvt. Ltd. (Intern / Junior Role)*  
-  - Worked on web projects using Python, Django, and related technologies.  
-  - Collaborated in a team environment using Git and standard workflows.  
-  - Gained hands‑on experience building and maintaining web features.
+- Junior Digital Technology & Software Developer  
+  Worked on web projects using Python, Django and related tools, following team workflows and version control.
 
-- 🎓 **Academic Background**  
-  - Science stream (Class 11–12).  
-  - Strong focus on programming, web development, and software engineering fundamentals.
+- Science stream student (Class 11–12)  
+  Strong interest in programming, web technologies and software engineering fundamentals.
 
 ---
 
 ## 🌐 Portfolio
 
-My portfolio site gives a complete overview of who I am and what I build:
+**Portfolio:** [asimpunmagar.com.np](https://asimpunmagar.com.np)
 
-- 🔗 **Portfolio:** [asimpunmagar.com.np](https://asimpunmagar.com.np)
+Sections include:
 
-You’ll typically find:
-
-- **Home / Hero** – quick introduction and what I do.  
-- **About** – my journey, interests, and goals as a developer.  
-- **Skills / Tech Stack** – tools and technologies I use every day.  
-- **Projects** – selected work with descriptions and tech stacks.  
-- **Contact** – ways to get in touch for collaboration or opportunities.  
+- Home / Hero  
+- About  
+- Skills / Tech Stack  
+- Projects  
+- Contact  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-> Tech stacks below are filled as typical examples. Adjust them if your repos use something different.
+### Sajilo Yatra – Tour & Travel Platform
 
-- **Sajilo Yatra – Tour & Travel Platform**  
-  A travel‑focused web project aimed at simplifying trip planning and information access for users.  
-  Features structured sections for destinations, packages, services, and key travel details with a clean, responsive layout.  
-  _Repo:_ [github.com/magarasim/Sajilo-Yatra](https://github.com/magarasim/Sajilo-Yatra)  
-  _Tech stack:_ **HTML, CSS, JavaScript** (or update to `React` / `Django` if you used them).
+A travel‑oriented web project focused on making trip planning and information access simple and clear.  
+Includes sections for destinations, packages and services with a clean, responsive layout.  
+**Repository:** [github.com/magarasim/Sajilo-Yatra](https://github.com/magarasim/Sajilo-Yatra)  
+**Tech stack:** HTML, CSS, JavaScript  
 
-- **Student Management System**  
-  A web‑based system for managing student information and academic records.  
-  Includes core features like adding, editing, and viewing student details in an organized interface.  
-  _Repo:_ [github.com/magarasim/Student-Management-System](https://github.com/magarasim/Student-Management-System)  
-  _Tech stack:_ **Python, Django, SQLite, HTML, CSS, JavaScript** (edit if your stack is slightly different).
+### Student Management System
 
-- **Personal Portfolio – asimpunmagar.com.np**  
-  My personal portfolio website showcasing who I am, my skills, experience, and selected projects.  
-  Designed to be modern and responsive, suitable for both desktop and mobile visitors.  
-  _Live:_ [asimpunmagar.com.np](https://asimpunmagar.com.np)  
-  _Tech stack:_ **HTML, CSS, JavaScript**, and optionally **React or Django** if you have integrated them.
+A web‑based system for managing student information and academic records.  
+Provides functionality to add, update and view student details in an organized interface.  
+**Repository:** [github.com/magarasim/Student-Management-System](https://github.com/magarasim/Student-Management-System)  
+**Tech stack:** Python, Django, SQLite, HTML, CSS, JavaScript  
 
-- **Other Practice & Learning Projects**  
-  A collection of smaller projects and experiments where I explore new tools and concepts in Django, React, and WordPress.  
-  These help me strengthen fundamentals, learn patterns, and try out ideas before using them in bigger projects.
+### Personal Portfolio – asimpunmagar.com.np
+
+My personal portfolio website that highlights my profile, skills and selected projects in a professional way.  
+Built to look good on both desktop and mobile devices with a simple and clear structure.  
+**Live:** [asimpunmagar.com.np](https://asimpunmagar.com.np)  
+**Tech stack:** HTML, CSS, JavaScript  
+
+### Additional Practice & Learning Projects
+
+Smaller experiments and learning projects in Django, React and WordPress.  
+Used to explore new features, patterns and tools before applying them to larger work.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-I’m open to:
+- Portfolio: [asimpunmagar.com.np](https://asimpunmagar.com.np)  
+- GitHub: [github.com/magarasim](https://github.com/magarasim)  
+- LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/)  
 
-- Collaborating on beginner–intermediate web projects (Django, React, WordPress, or general web dev)  
-- Building portfolio sites and small applications  
-- Learning together and exchanging feedback on projects  
-
-📫 **Contact**
-
-- 🌐 Portfolio: [asimpunmagar.com.np](https://asimpunmagar.com.np)  
-- 🐙 GitHub: [@magarasim](https://github.com/magarasim)  
-- 💼 LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/)  
-
-Thanks for visiting my profile! Feel free to explore my repositories and star any project you find helpful.
+If you like my work or want to collaborate on a project, feel free to reach out.
