@@ -103,26 +103,29 @@ You’ll typically find:
 
 ## 📂 Featured Projects
 
-> Add your GitHub repo and live links where available.
+> Add your repo and live links where available.
 
 - **Sajilo Yatra – Tour & Travel Platform**  
-  A web platform designed to make trip planning and travel bookings simpler and more convenient.  
-  Focuses on clear information, easy navigation, and a smooth user journey for travelers.  
-  _Tech stack:_ For example, Django / React / HTML / CSS / JavaScript (update this line to your exact stack).
+  A travel‑focused web project aimed at simplifying trip planning and information access for users.  
+  Features structured sections for destinations, services, and key travel details with a clean, responsive layout.  
+  _Repo:_ [github.com/magarasim/Sajilo-Yatra](https://github.com/magarasim/Sajilo-Yatra)  
+  _Tech stack:_ (update this line with the exact stack you used, for example: `HTML, CSS, JavaScript` or `React, Django`).
 
 - **Student Management System**  
-  A system to manage student information, records, and academic details in one place.  
-  Includes features like adding, updating, and viewing student data with a clean, easy‑to‑use interface.  
-  _Tech stack:_ For example, Django / HTML / CSS / JavaScript / SQLite (update this line to your exact stack).
+  A web‑based system for managing student information and academic records.  
+  Includes core features like adding, editing, and viewing student details in an organized interface.  
+  _Repo:_ [github.com/magarasim/Student-Management-System](https://github.com/magarasim/Student-Management-System)  
+  _Tech stack:_ (update this line with the exact stack you used, for example: `Python, Django, SQLite, HTML, CSS`).
 
 - **Personal Portfolio – asimpunmagar.com.np**  
   My personal portfolio website showcasing who I am, my skills, experiences, and selected projects.  
-  Designed to be responsive and professional, suitable for both desktop and mobile visitors.  
-  _Tech stack:_ For example, React / Django / HTML / CSS / JavaScript / WordPress (update based on what you actually used).
+  Designed to be modern and responsive, suitable for both desktop and mobile visitors.  
+  _Live:_ [asimpunmagar.com.np](https://asimpunmagar.com.np)  
+  _Tech stack:_ (update this line with what you actually used, such as `HTML, CSS, JavaScript`, `React`, or `Django`).
 
 - **Other Practice & Learning Projects**  
-  Smaller projects and experiments where I explore new ideas, components, and tools in Django, React, and WordPress.  
-  These help me practice new concepts and turn them into something practical.
+  A collection of smaller projects and experiments where I explore new tools and concepts in Django, React, and WordPress.  
+  These help me strengthen fundamentals, learn patterns, and try out ideas before using them in bigger projects.
 
 ---
 
