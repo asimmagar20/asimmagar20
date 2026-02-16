@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 I am a junior Digital Technology & Software Developer from Nepal with a strong focus on web application development.  
-My work spans frontend and backend, and I enjoy building projects that are clean, responsive and practical for real users.
+My work spans both frontend and backend, and I enjoy building projects that are clean, responsive and practical for real users.
 
 - Based in Nepal  
 - Science background with a clear interest in software engineering  
@@ -91,7 +91,7 @@ More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)*
 
 **Portfolio:** [asimpunmagar.com.np](https://asimpunmagar.com.np)
 
-Sections highlight:
+Key sections:
 
 - Hero introduction and call‑to‑action  
 - Detailed about section  
@@ -126,7 +126,7 @@ It provides functionality to create, update and view student details using Djang
 EasyMy Learning is an educational website implemented and customized using WordPress.  
 The site includes structured pages for courses, features, blog content and contact, using WordPress themes and configuration to balance design, performance and ease of content management.  
 **Live:** [easymylearning.in](https://easymylearning.in/)  
-**Tech stack:** WordPress, Custom configuration, HTML, CSS  
+**Tech stack:** WordPress, custom configuration, HTML, CSS  
 
 ---
 
