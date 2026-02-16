@@ -76,7 +76,7 @@ You can learn more about me and my work on my portfolio: **[asimpunmagar.com.np]
 - 🧑‍💻 **Junior Digital Technology & Software Developer**  
   *EasyMy Learning Pvt. Ltd. (Intern / Junior Role)*  
   - Worked on web projects using Python, Django, and related technologies.  
-  - Collaborated in a team environment, using Git and proper workflows.  
+  - Collaborated in a team environment using Git and standard workflows.  
   - Gained hands‑on experience building and maintaining web features.
 
 - 🎓 **Academic Background**  
@@ -105,23 +105,24 @@ You’ll typically find:
 
 > Add your GitHub repo and live links where available.
 
-- **Sajilo Yatra**  
-  A travel‑focused web application designed to make trip planning and information access simple and intuitive.  
-  Built with a modern web stack, focusing on clear UI, responsiveness, and user‑friendly flows.  
-  _Tech:_ (for example) Django, HTML, CSS, JavaScript, Bootstrap/React – update to match your actual stack.
+- **Sajilo Yatra – Tour & Travel Platform**  
+  A web platform designed to make trip planning and travel bookings simpler and more convenient.  
+  Focuses on clear information, easy navigation, and a smooth user journey for travelers.  
+  _Tech stack:_ For example, Django / React / HTML / CSS / JavaScript (update this line to your exact stack).
 
 - **Student Management System**  
-  A system for managing student information, records, and basic academic details in an organized way.  
-  Includes features like adding, updating, and viewing student data with a clean interface.  
-  _Tech:_ (for example) Django, SQLite/PostgreSQL, HTML, CSS, JavaScript – update to match your actual stack.
+  A system to manage student information, records, and academic details in one place.  
+  Includes features like adding, updating, and viewing student data with a clean, easy‑to‑use interface.  
+  _Tech stack:_ For example, Django / HTML / CSS / JavaScript / SQLite (update this line to your exact stack).
 
 - **Personal Portfolio – asimpunmagar.com.np**  
-  A personal portfolio website showcasing who I am, my skills, and my projects with a professional, responsive design.  
-  _Tech:_ HTML, CSS, JavaScript, maybe React or Django (update to match what you actually used).
+  My personal portfolio website showcasing who I am, my skills, experiences, and selected projects.  
+  Designed to be responsive and professional, suitable for both desktop and mobile visitors.  
+  _Tech stack:_ For example, React / Django / HTML / CSS / JavaScript / WordPress (update based on what you actually used).
 
-- **Other Ongoing / Practice Projects**  
-  Smaller projects and experiments where I explore new concepts, components, and tools in Django, React, and WordPress.  
-  These are usually focused on learning specific features or patterns, then turning them into something usable.
+- **Other Practice & Learning Projects**  
+  Smaller projects and experiments where I explore new ideas, components, and tools in Django, React, and WordPress.  
+  These help me practice new concepts and turn them into something practical.
 
 ---
 
