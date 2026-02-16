@@ -46,6 +46,8 @@ More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)*
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -63,7 +65,8 @@ More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)*
 
 - Portfolio and personal branding websites  
 - Django based web applications  
-- React.js user interfaces  
+- React.js user interfaces and single‑page apps  
+- REST API powered projects using Node.js and Supabase  
 - WordPress powered websites and blogs  
 - Frontend layouts with attention to responsiveness and usability  
 
@@ -71,10 +74,10 @@ More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)*
 
 ## 💼 Experience & Education
 
-- Junior Digital Technology & Software Developer  
+- **Junior Digital Technology & Software Developer**  
   Worked on web projects using Python, Django and related tools, following team workflows and version control.
 
-- Science stream student (Class 11–12)  
+- **Science Stream Student (Class 11–12)**  
   Strong interest in programming, web technologies and software engineering fundamentals.
 
 ---
@@ -97,10 +100,10 @@ Sections include:
 
 ### Sajilo Yatra – Tour & Travel Platform
 
-A travel‑oriented web project focused on making trip planning and information access simple and clear.  
-Includes sections for destinations, packages and services with a clean, responsive layout.  
+A tour and travel platform built with a full‑stack JavaScript setup.  
+The project uses a React.js frontend, a Node.js backend, Supabase as the backend‑as‑a‑service and REST APIs to handle data flow, with custom styling in CSS for a clean and responsive UI.  
 **Repository:** [github.com/magarasim/Sajilo-Yatra](https://github.com/magarasim/Sajilo-Yatra)  
-**Tech stack:** HTML, CSS, JavaScript  
+**Tech stack:** React.js, Node.js, Supabase, REST API, CSS  
 
 ### Student Management System
 
@@ -118,7 +121,7 @@ Built to look good on both desktop and mobile devices with a simple and clear st
 
 ### Additional Practice & Learning Projects
 
-Smaller experiments and learning projects in Django, React and WordPress.  
+Smaller experiments and learning projects in Django, React, Node.js, Supabase and WordPress.  
 Used to explore new features, patterns and tools before applying them to larger work.
 
 ---
@@ -129,4 +132,15 @@ Used to explore new features, patterns and tools before applying them to larger 
 - GitHub: [github.com/magarasim](https://github.com/magarasim)  
 - LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/)  
 
-If you like my work or want to collaborate on a project, feel free to reach out.
+---
+
+## ✨ Quote
+
+> “Code is my way of turning ideas into reality, one commit at a time.”
+
+---
+
+## 🙏 Thank You
+
+Thank you for taking the time to view my profile and projects.  
+If my work interests you or you see a chance to collaborate, feel free to reach out anytime.
