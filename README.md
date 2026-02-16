@@ -23,9 +23,9 @@ I’m a junior Digital Technology & Software Developer from Nepal, focused on bu
 I enjoy working with Python/Django, React.js, WordPress, and frontend technologies to turn ideas into clean, functional user experiences.
 
 - 🌍 Based in Nepal  
-- 🎓 Science background with strong interest in software development  
+- 🎓 Science background with a strong interest in software development  
 - 💼 Experience as a junior developer / intern working on real web projects  
-- 💡 Interested in full‑stack development, UI/UX, and practical digital solutions  
+- 💡 Passionate about full‑stack development, UI/UX, and practical digital solutions  
 - 🎯 Goal: Grow into a strong full‑stack developer with production‑ready projects in my portfolio  
 
 You can learn more about me and my work on my portfolio: **[asimpunmagar.com.np](https://asimpunmagar.com.np)**.
@@ -87,7 +87,7 @@ You can learn more about me and my work on my portfolio: **[asimpunmagar.com.np]
 
 ## 🌐 Portfolio
 
-My portfolio site provides a complete overview of my profile, skills, and projects:
+My portfolio site gives a complete overview of who I am and what I build:
 
 - 🔗 **Portfolio:** [asimpunmagar.com.np](https://asimpunmagar.com.np)
 
@@ -103,25 +103,25 @@ You’ll typically find:
 
 ## 📂 Featured Projects
 
-> Add your repo and live links where available.
+> Tech stacks below are filled as typical examples. Adjust them if your repos use something different.
 
 - **Sajilo Yatra – Tour & Travel Platform**  
   A travel‑focused web project aimed at simplifying trip planning and information access for users.  
-  Features structured sections for destinations, services, and key travel details with a clean, responsive layout.  
+  Features structured sections for destinations, packages, services, and key travel details with a clean, responsive layout.  
   _Repo:_ [github.com/magarasim/Sajilo-Yatra](https://github.com/magarasim/Sajilo-Yatra)  
-  _Tech stack:_ (update this line with the exact stack you used, for example: `HTML, CSS, JavaScript` or `React, Django`).
+  _Tech stack:_ **HTML, CSS, JavaScript** (or update to `React` / `Django` if you used them).
 
 - **Student Management System**  
   A web‑based system for managing student information and academic records.  
   Includes core features like adding, editing, and viewing student details in an organized interface.  
   _Repo:_ [github.com/magarasim/Student-Management-System](https://github.com/magarasim/Student-Management-System)  
-  _Tech stack:_ (update this line with the exact stack you used, for example: `Python, Django, SQLite, HTML, CSS`).
+  _Tech stack:_ **Python, Django, SQLite, HTML, CSS, JavaScript** (edit if your stack is slightly different).
 
 - **Personal Portfolio – asimpunmagar.com.np**  
-  My personal portfolio website showcasing who I am, my skills, experiences, and selected projects.  
+  My personal portfolio website showcasing who I am, my skills, experience, and selected projects.  
   Designed to be modern and responsive, suitable for both desktop and mobile visitors.  
   _Live:_ [asimpunmagar.com.np](https://asimpunmagar.com.np)  
-  _Tech stack:_ (update this line with what you actually used, such as `HTML, CSS, JavaScript`, `React`, or `Django`).
+  _Tech stack:_ **HTML, CSS, JavaScript**, and optionally **React or Django** if you have integrated them.
 
 - **Other Practice & Learning Projects**  
   A collection of smaller projects and experiments where I explore new tools and concepts in Django, React, and WordPress.  
