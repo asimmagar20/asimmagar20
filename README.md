@@ -17,14 +17,14 @@
 
 ## 👨‍💻 About Me
 
-I am a junior Digital Technology & Software Developer from Nepal with a strong focus on modern web development.  
-I like turning ideas into fast, responsive and user‑friendly web applications using a mix of backend and frontend technologies.
+I am a junior Digital Technology & Software Developer from Nepal with a strong focus on web application development.  
+My work spans frontend and backend, and I enjoy building projects that are clean, responsive and practical for real users.
 
 - Based in Nepal  
-- Science background with a passion for software development  
-- Experience working on real projects as a junior developer / intern  
-- Interested in full‑stack development, UI/UX and practical digital products  
-- Focused on building a solid portfolio of production‑ready projects  
+- Science background with a clear interest in software engineering  
+- Hands‑on experience as a junior developer / intern on real client projects  
+- Comfortable working across the stack: frontend, backend and CMS  
+- Actively building a portfolio of projects that reflect production‑style quality  
 
 More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)**
 
@@ -51,7 +51,7 @@ More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)*
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 </p>
 
-### Tools
+### Tools & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -61,24 +61,29 @@ More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)*
 
 ---
 
-## 💡 What I Build
+## 💡 What I Do
 
-- Portfolio and personal branding websites  
-- Django based web applications  
-- React.js user interfaces and single‑page apps  
-- REST API powered projects using Node.js and Supabase  
-- WordPress powered websites and blogs  
-- Frontend layouts with attention to responsiveness and usability  
+- Design and develop portfolio and personal branding websites with a focus on clarity and responsiveness  
+- Build Django‑based web applications with structured models, views, templates and basic authentication  
+- Develop React.js user interfaces and single‑page applications consuming REST APIs  
+- Implement REST API backed solutions using Node.js and Supabase for data storage and authentication  
+- Create and customize WordPress websites for content‑driven and educational platforms  
+- Convert ideas and UI concepts into clean, maintainable frontend layouts  
 
 ---
 
 ## 💼 Experience & Education
 
-- **Junior Digital Technology & Software Developer**  
-  Worked on web projects using Python, Django and related tools, following team workflows and version control.
+### Junior Digital Technology & Software Developer – EasyMy Learning Pvt. Ltd.
 
-- **Science Stream Student (Class 11–12)**  
-  Strong interest in programming, web technologies and software engineering fundamentals.
+- Contributed to web development tasks using Python, Django and WordPress  
+- Assisted in building and maintaining production websites and internal tools  
+- Worked with version control, collaboration workflows and deployment‑ready code  
+
+### Science Stream Student (Class 11–12)
+
+- Academic focus on science with a strong self‑driven interest in programming  
+- Regular practice in web development, problem‑solving and technical learning  
 
 ---
 
@@ -86,13 +91,13 @@ More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)*
 
 **Portfolio:** [asimpunmagar.com.np](https://asimpunmagar.com.np)
 
-Sections include:
+Sections highlight:
 
-- Home / Hero  
-- About  
-- Skills / Tech Stack  
-- Projects  
-- Contact  
+- Hero introduction and call‑to‑action  
+- Detailed about section  
+- Skill stack and tools overview  
+- Project highlights with descriptions and roles  
+- Contact details for collaboration  
 
 ---
 
@@ -100,29 +105,44 @@ Sections include:
 
 ### Sajilo Yatra – Tour & Travel Platform
 
-A tour and travel platform built with a full‑stack JavaScript setup.  
-The project uses a React.js frontend, a Node.js backend, Supabase as the backend‑as‑a‑service and REST APIs to handle data flow, with custom styling in CSS for a clean and responsive UI.  
+Sajilo Yatra is a tour and travel platform designed to make trip planning straightforward for users.  
+The application uses a React.js frontend for a smooth client‑side experience, a Node.js backend and Supabase as the backend‑as‑a‑service, with REST APIs managing communication between the layers. Styling is handled with custom CSS to keep the interface clean and responsive.  
 **Repository:** [github.com/magarasim/Sajilo-Yatra](https://github.com/magarasim/Sajilo-Yatra)  
 **Tech stack:** React.js, Node.js, Supabase, REST API, CSS  
 
+---
+
 ### Student Management System
 
-A web‑based system for managing student information and academic records.  
-Provides functionality to add, update and view student details in an organized interface.  
+The Student Management System is a web‑based application for managing student records and academic information.  
+It provides functionality to create, update and view student details using Django models, views and templates, with SQLite as the database and a simple responsive frontend in HTML, CSS and JavaScript.  
 **Repository:** [github.com/magarasim/Student-Management-System](https://github.com/magarasim/Student-Management-System)  
 **Tech stack:** Python, Django, SQLite, HTML, CSS, JavaScript  
 
+---
+
+### EasyMy Learning – WordPress Website
+
+EasyMy Learning is an educational website implemented and customized using WordPress.  
+The site includes structured pages for courses, features, blog content and contact, using WordPress themes and configuration to balance design, performance and ease of content management.  
+**Live:** [easymylearning.in](https://easymylearning.in/)  
+**Tech stack:** WordPress, Custom configuration, HTML, CSS  
+
+---
+
 ### Personal Portfolio – asimpunmagar.com.np
 
-My personal portfolio website that highlights my profile, skills and selected projects in a professional way.  
-Built to look good on both desktop and mobile devices with a simple and clear structure.  
+This is my personal portfolio website, created to present my profile, skills and projects in a clean format.  
+The layout is designed for both desktop and mobile, with focused sections for introduction, skills and selected work, giving visitors a quick, clear view of what I do.  
 **Live:** [asimpunmagar.com.np](https://asimpunmagar.com.np)  
 **Tech stack:** HTML, CSS, JavaScript  
 
+---
+
 ### Additional Practice & Learning Projects
 
-Smaller experiments and learning projects in Django, React, Node.js, Supabase and WordPress.  
-Used to explore new features, patterns and tools before applying them to larger work.
+I also maintain smaller learning projects and experiments in Django, React, Node.js, Supabase and WordPress.  
+These repositories capture my ongoing learning, from UI components and mini‑apps to backend experiments and workflow improvements.
 
 ---
 
@@ -142,5 +162,5 @@ Used to explore new features, patterns and tools before applying them to larger 
 
 ## 🙏 Thank You
 
-Thank you for taking the time to view my profile and projects.  
-If my work interests you or you see a chance to collaborate, feel free to reach out anytime.
+Thank you for taking the time to explore my profile and projects.  
+If my work aligns with what you are looking for or you see potential for collaboration, you are always welcome to reach out.
