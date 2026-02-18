@@ -32,10 +32,10 @@ Junior Digital Technology & Software Developer | React • Django • Node.js �
 
 ## 👨‍💻 About Me
 
-I’m a motivated Junior Software Developer based in Nepal with hands-on experience in full-stack web development.
+I’m a motivated and growth-driven Junior Software Developer based in Nepal with hands-on experience in full-stack web development.
 
-I build responsive, scalable, and maintainable web applications using **React, Django, Node.js, and WordPress**.  
-My focus is clean architecture, structured systems, and delivering production-ready solutions.
+I build responsive, structured, and maintainable web applications using **React, Django, Node.js, and WordPress**.  
+My focus is clean architecture, scalable systems, and delivering production-ready solutions.
 
 - 🌍 Based in Nepal  
 - 💼 Internship experience as Junior Developer  
@@ -53,26 +53,56 @@ My focus is clean architecture, structured systems, and delivering production-re
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Projects
 
-<p align="center">
+## 1) Sajilo Yatra
+A tour and travel platform built with React, Node.js, and Supabase, focusing on REST API integration and a responsive interface.
 
-<a href="https://github.com/magarasim/Sajilo-Yatra">
-<img src="https://img.shields.io/badge/Sajilo_Yatra-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Tech Stack:** React • Node.js • Supabase • REST API • CSS
 
-<a href="https://github.com/magarasim/Student-Management-System">
-<img src="https://img.shields.io/badge/Student_Management_System-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/magarasim/Sajilo-Yatra">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://easymylearning.in/">
-<img src="https://img.shields.io/badge/EasyMy_Learning-Live_Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+---
 
-<a href="https://asimpunmagar.com.np">
-<img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+## 2) Student Management System
+A Django-based academic management system that supports CRUD operations and structured backend logic for managing student records.
 
+**Tech Stack:** Python • Django • SQLite • HTML • CSS • JavaScript
+
+<p>
+  <a href="https://github.com/magarasim/Student-Management-System">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 3) EasyMy Learning
+An educational platform built and customized using WordPress with a focus on structured content delivery and usability.
+
+**Tech Stack:** WordPress • HTML • CSS
+
+<p>
+  <a href="https://easymylearning.in/">
+    <img src="https://img.shields.io/badge/Live_Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 4) Personal Portfolio
+A responsive portfolio website showcasing my projects, skills, and continuous technical growth.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+<p>
+  <a href="https://asimpunmagar.com.np">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -80,24 +110,7 @@ My focus is clean architecture, structured systems, and delivering production-re
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magarasim&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarasim&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=magarasim&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=magarasim&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=magarasim&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
