@@ -1,9 +1,13 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">Hi, I'm Asim Pun Magar 👋</h1>
+<!-- ================= CUSTOM BANNER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=750&lines=Junior+Digital+Technology+%26+Software+Developer;React+%7C+Django+%7C+Node.js+%7C+WordPress;Building+Structured+%26+Scalable+Web+Applications;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=200&section=header&text=Asim%20Pun%20Magar&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h3 align="center">Junior Digital Technology & Software Developer</h3>
+
+<p align="center">
+  React • Django • Node.js • WordPress
 </p>
 
 <p align="center">
@@ -24,32 +28,15 @@
 
 I’m a motivated Junior Software Developer based in Nepal with hands-on experience in full-stack web development.
 
-I build responsive, structured, and maintainable web applications using **React, Django, Node.js, and WordPress**.  
-My focus is clean architecture, scalable systems, and delivering production-ready code.
-
-- 🌍 Based in Nepal  
-- 💼 Internship experience as Junior Developer  
-- 🧠 Strong frontend & backend foundation  
-- 🚀 Real-world project experience  
-- 📈 Continuous improvement mindset  
+I build responsive, scalable, and maintainable web applications using **React, Django, Node.js, and WordPress**.  
+My focus is clean architecture, structured development, and delivering production-ready solutions.
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-### ⚙ Frameworks & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,nodejs,supabase,wordpress" />
-</p>
-
-### 🛠 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,django,nodejs,supabase,wordpress,git,github,vscode" />
 </p>
 
 ---
@@ -62,89 +49,61 @@ My focus is clean architecture, scalable systems, and delivering production-read
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/magarasim/magarasim/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 # 🚀 Featured Projects
 
----
-
-## 🔹 Sajilo Yatra
-
-Tour & travel platform built with React, Node.js, and Supabase.
-
-**Tech Stack:** React • Node.js • Supabase • REST API  
-
-<p>
-  <a href="https://github.com/magarasim/Sajilo-Yatra">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 🔹 Sajilo Yatra
+React-based tour & travel platform with Supabase backend.  
+[View Repository →](https://github.com/magarasim/Sajilo-Yatra)
 
 ---
 
-## 🔹 Student Management System
-
-Django-based academic management application with CRUD operations.
-
-**Tech Stack:** Python • Django • SQLite • HTML • CSS  
-
-<p>
-  <a href="https://github.com/magarasim/Student-Management-System">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 🔹 Student Management System
+Django-powered academic management system with CRUD operations.  
+[View Repository →](https://github.com/magarasim/Student-Management-System)
 
 ---
 
-## 🔹 EasyMy Learning
-
-Educational platform customized using WordPress.
-
-**Tech Stack:** WordPress • HTML • CSS  
-
-<p>
-  <a href="https://easymylearning.in/">
-    <img src="https://img.shields.io/badge/Live_Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+### 🔹 EasyMy Learning
+WordPress-based educational platform.  
+[Visit Website →](https://easymylearning.in/)
 
 ---
 
-## 🔹 Personal Portfolio
-
-Portfolio website showcasing projects and technical growth.
-
-**Tech Stack:** HTML • CSS • JavaScript  
-
-<p>
-  <a href="https://asimpunmagar.com.np">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+### 🔹 Personal Portfolio
+Professional portfolio website.  
+[Visit Portfolio →](https://asimpunmagar.com.np)
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving full-stack architecture  
-- Building scalable production-style systems  
-- Strengthening backend & API structuring  
+- Strengthening full-stack architecture  
+- Building scalable backend systems  
+- Improving API structuring  
 - Advancing React + Django expertise  
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I’m open to:
-
-- 💼 Internship & Junior Developer roles  
-- 🤝 Collaboration on meaningful projects  
-- 🚀 Startup & product development opportunities  
+- Internship & Junior Developer roles  
+- Collaboration on meaningful projects  
+- Startup & product development work  
 
 ---
 
-## ✨ Philosophy
-
-> "Code turns ideas into scalable and meaningful solutions."
+> "Code turns ideas into structured, scalable, and meaningful solutions."
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories and connect.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
+</p>
