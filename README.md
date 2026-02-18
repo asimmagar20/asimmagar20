@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Asim Pun Magar 👋</h1>
-<h3 align="center">Junior Digital Technology & Software Developer from Nepal</h3>
+<h1 align="center">Asim Pun Magar 👋</h1>
+<h3 align="center">Junior Digital Technology & Software Developer | React • Django • WordPress</h3>
 
 <p align="center">
   <a href="https://asimpunmagar.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-asimpunmagar.com.np-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-asimpunmagar.com.np-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/magarasim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-magarasim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-magarasim-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/asim-pun-magar-006922309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Asim%20Pun%20Magar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Asim%20Pun%20Magar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -17,150 +17,100 @@
 
 ## 👨‍💻 About Me
 
-I am a junior Digital Technology & Software Developer from Nepal with a strong focus on web application development.  
-My work spans both frontend and backend, and I enjoy building projects that are clean, responsive and practical for real users.
+I am a motivated and growth-focused Junior Software Developer from Nepal with practical experience in full-stack web development.
 
-- Based in Nepal  
-- Science background with a clear interest in software engineering  
-- Hands‑on experience as a junior developer / intern on real client projects  
-- Comfortable working across the stack: frontend, backend and CMS  
-- Actively building a portfolio of projects that reflect production‑style quality  
+I specialize in building responsive web applications using **React, Django, Node.js, and WordPress**, with a strong focus on clean architecture and maintainable code.
 
-More about me and my work: **[asimpunmagar.com.np](https://asimpunmagar.com.np)**
+- 🌍 Based in Nepal  
+- 💼 Industry experience as a Junior Developer (Internship)  
+- 🧠 Strong foundation in frontend and backend development  
+- 🚀 Actively building real-world projects  
+- 📈 Continuously learning modern technologies  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-### Languages
-
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Frameworks, Libraries & Platforms
-
+### ⚙ Frameworks & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-### Tools & Workflow
-
+### 🛠 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 💡 What I Do
+## 📊 GitHub Stats
 
-- Design and develop portfolio and personal branding websites with a focus on clarity and responsiveness  
-- Build Django‑based web applications with structured models, views, templates and basic authentication  
-- Develop React.js user interfaces and single‑page applications consuming REST APIs  
-- Implement REST API backed solutions using Node.js and Supabase for data storage and authentication  
-- Create and customize WordPress websites for content‑driven and educational platforms  
-- Convert ideas and UI concepts into clean, maintainable frontend layouts  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magarasim&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarasim&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 💼 Experience & Education
+## 🔥 Contribution Streak
 
-### Junior Digital Technology & Software Developer – EasyMy Learning Pvt. Ltd.
-
-- Contributed to web development tasks using Python, Django and WordPress  
-- Assisted in building and maintaining production websites and internal tools  
-- Worked with version control, collaboration workflows and deployment‑ready code  
-
-### Science Stream Student (Class 11–12)
-
-- Academic focus on science with a strong self‑driven interest in programming  
-- Regular practice in web development, problem‑solving and technical learning  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=magarasim&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Portfolio
+## 🚀 Featured Projects
 
-**Portfolio:** [asimpunmagar.com.np](https://asimpunmagar.com.np)
+### 🔹 Sajilo Yatra
+Tour & travel platform built with React, Node.js, and Supabase.
 
-Key sections:
+### 🔹 Student Management System
+Django-based academic management web application.
 
-- Hero introduction and call‑to‑action  
-- Detailed about section  
-- Skill stack and tools overview  
-- Project highlights with descriptions and roles  
-- Contact details for collaboration  
+### 🔹 EasyMy Learning
+Educational platform built using WordPress.
 
----
-
-## 📂 Projects
-
-### Sajilo Yatra – Tour & Travel Platform
-
-Sajilo Yatra is a tour and travel platform designed to make trip planning straightforward for users.  
-The application uses a React.js frontend for a smooth client‑side experience, a Node.js backend and Supabase as the backend‑as‑a‑service, with REST APIs managing communication between the layers. Styling is handled with custom CSS to keep the interface clean and responsive.  
-**Repository:** [github.com/magarasim/Sajilo-Yatra](https://github.com/magarasim/Sajilo-Yatra)  
-**Tech stack:** React.js, Node.js, Supabase, REST API, CSS  
+### 🔹 Personal Portfolio
+Professional portfolio showcasing skills and projects.
 
 ---
 
-### Student Management System
+## 🎯 Current Focus
 
-The Student Management System is a web‑based application for managing student records and academic information.  
-It provides functionality to create, update and view student details using Django models, views and templates, with SQLite as the database and a simple responsive frontend in HTML, CSS and JavaScript.  
-**Repository:** [github.com/magarasim/Student-Management-System](https://github.com/magarasim/Student-Management-System)  
-**Tech stack:** Python, Django, SQLite, HTML, CSS, JavaScript  
-
----
-
-### EasyMy Learning – WordPress Website
-
-EasyMy Learning is an educational website implemented and customized using WordPress.  
-The site includes structured pages for courses, features, blog content and contact, using WordPress themes and configuration to balance design, performance and ease of content management.  
-**Live:** [easymylearning.in](https://easymylearning.in/)  
-**Tech stack:** WordPress, custom configuration, HTML, CSS  
+- Improving full-stack architecture skills  
+- Building scalable production-style applications  
+- Enhancing API integration expertise  
+- Strengthening React + Django ecosystem knowledge  
 
 ---
 
-### Personal Portfolio – asimpunmagar.com.np
+## 🤝 Let's Connect
 
-This is my personal portfolio website, created to present my profile, skills and projects in a clean format.  
-The layout is designed for both desktop and mobile, with focused sections for introduction, skills and selected work, giving visitors a quick, clear view of what I do.  
-**Live:** [asimpunmagar.com.np](https://asimpunmagar.com.np)  
-**Tech stack:** HTML, CSS, JavaScript  
-
----
-
-### Additional Practice & Learning Projects
-
-I also maintain smaller learning projects and experiments in Django, React, Node.js, Supabase and WordPress.  
-These repositories capture my ongoing learning, from UI components and mini‑apps to backend experiments and workflow improvements.
+- 🌐 Portfolio: https://asimpunmagar.com.np  
+- 💻 GitHub: https://github.com/magarasim  
+- 🔗 LinkedIn: https://www.linkedin.com/in/asim-pun-magar-006922309/  
 
 ---
 
-## 🤝 Connect
+## ✨ Personal Philosophy
 
-- Portfolio: [asimpunmagar.com.np](https://asimpunmagar.com.np)  
-- GitHub: [github.com/magarasim](https://github.com/magarasim)  
-- LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/)  
+> "Code is my way of turning ideas into reality — one commit at a time."
 
 ---
 
-## ✨ Quote
-
-> “Code is my way of turning ideas into reality, one commit at a time.”
-
----
-
-## 🙏 Thank You
-
-Thank you for taking the time to explore my profile and projects.  
-If my work aligns with what you are looking for or you see potential for collaboration, you are always welcome to reach out.
+⭐ If you find my work interesting, feel free to explore my repositories and connect!
