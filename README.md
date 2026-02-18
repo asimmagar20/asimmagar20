@@ -17,15 +17,15 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated and growth-focused Junior Software Developer from Nepal with practical experience in full-stack web development.
+I am a growth-driven Junior Software Developer based in Nepal with practical experience in full-stack web development.
 
-I specialize in building responsive web applications using **React, Django, Node.js, and WordPress**, with a strong focus on clean architecture and maintainable code.
+I specialize in building responsive, structured, and maintainable web applications using **React, Django, Node.js, and WordPress**. My focus is on clean architecture, scalable solutions, and delivering production-ready code.
 
 - 🌍 Based in Nepal  
 - 💼 Industry experience as a Junior Developer (Internship)  
 - 🧠 Strong foundation in frontend and backend development  
-- 🚀 Actively building real-world projects  
-- 📈 Continuously learning modern technologies  
+- 🚀 Actively building real-world and production-style projects  
+- 📈 Continuously learning modern technologies and best practices  
 
 ---
 
@@ -48,20 +48,11 @@ I specialize in building responsive web applications using **React, Django, Node
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magarasim&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarasim&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -76,26 +67,26 @@ I specialize in building responsive web applications using **React, Django, Node
 
 ## 🚀 Featured Projects
 
-### 🔹 Sajilo Yatra
-Tour & travel platform built with React, Node.js, and Supabase.
+### 🔹 Sajilo Yatra  
+A tour and travel platform built using React, Node.js, and Supabase with REST API integration and responsive UI design.
 
-### 🔹 Student Management System
-Django-based academic management web application.
+### 🔹 Student Management System  
+A Django-based academic management application with structured backend logic and CRUD operations.
 
-### 🔹 EasyMy Learning
-Educational platform built using WordPress.
+### 🔹 EasyMy Learning  
+An educational platform developed and customized using WordPress for structured content delivery.
 
-### 🔹 Personal Portfolio
-Professional portfolio showcasing skills and projects.
+### 🔹 Personal Portfolio  
+A professional portfolio website designed to showcase skills, projects, and technical growth.
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving full-stack architecture skills  
-- Building scalable production-style applications  
-- Enhancing API integration expertise  
-- Strengthening React + Django ecosystem knowledge  
+- Strengthening full-stack application architecture  
+- Building scalable and maintainable web systems  
+- Improving API integration and backend structuring  
+- Advancing expertise in the React + Django ecosystem  
 
 ---
 
@@ -107,10 +98,10 @@ Professional portfolio showcasing skills and projects.
 
 ---
 
-## ✨ Personal Philosophy
+## ✨ Professional Philosophy
 
-> "Code is my way of turning ideas into reality — one commit at a time."
+> "Code is my way of transforming ideas into structured, scalable, and meaningful solutions."
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories and connect!
+⭐ If you find my work interesting, feel free to explore my repositories and connect.
