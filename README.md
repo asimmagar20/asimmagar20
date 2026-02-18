@@ -15,20 +15,17 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 About Me
 
-I am a results-oriented Junior Software Developer based in Nepal with practical experience in full-stack web development and real-world project implementation.
+I am a motivated and growth-oriented Junior Software Developer based in Nepal with practical experience in full-stack web development.
 
-I focus on building structured, maintainable, and scalable web applications using modern technologies such as **React, Django, Node.js, and WordPress**.
+I specialize in building responsive, well-structured, and maintainable web applications using **React, Django, Node.js, and WordPress**. My focus is on clean architecture, scalable solutions, and writing production-ready code that delivers real value.
 
-My approach emphasizes:
-
-- Clean and readable code  
-- Scalable architecture  
-- User-focused design  
-- Continuous technical improvement  
-
-I am committed to growing into a highly capable full-stack engineer through hands-on development and disciplined learning.
+- 🌍 Based in Nepal  
+- 💼 Industry experience as a Junior Developer (Internship)  
+- 🧠 Solid foundation in frontend and backend development  
+- 🚀 Actively building real-world and production-style projects  
+- 📈 Continuously improving through hands-on development and learning  
 
 ---
 
@@ -60,55 +57,51 @@ I am committed to growing into a highly capable full-stack engineer through hand
 
 ---
 
-## 🔥 Development Consistency
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=magarasim&theme=tokyonight&hide_border=true"/>
 </p>
 
-Consistent contribution and continuous project work reflect my commitment to improving daily.
-
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
 ### 🔹 Sajilo Yatra  
-A tour and travel platform built using React, Node.js, and Supabase.  
-Focused on structured API integration, responsive UI, and modular frontend design.
+A tour and travel platform developed using React, Node.js, and Supabase with REST API integration and responsive interface design.
 
 ### 🔹 Student Management System  
-A Django-based academic management application implementing CRUD operations, backend structuring, and template-based rendering.
+A Django-based academic management application implementing structured backend logic and CRUD functionality.
 
 ### 🔹 EasyMy Learning  
-A WordPress-based educational platform optimized for structured content delivery and usability.
+An educational platform built and customized using WordPress with a focus on structured content delivery.
 
 ### 🔹 Personal Portfolio  
-A professional portfolio website presenting technical growth, projects, and skills with responsive design principles.
+A professional portfolio website showcasing projects, skills, and continuous technical growth.
 
 ---
 
-## 🎯 Current Technical Focus
+## 🎯 Current Focus
 
-- Advancing full-stack application architecture  
-- Strengthening backend logic structuring in Django  
-- Building scalable React-based user interfaces  
-- Improving API design and integration practices  
-- Writing production-ready, maintainable code  
+- Strengthening full-stack application architecture  
+- Building scalable and maintainable web systems  
+- Improving backend structuring and API integration  
+- Advancing expertise in the React and Django ecosystem  
 
 ---
 
-## 🤝 Professional Contact
+## 🤝 Let's Connect
 
-🌐 Portfolio: https://asimpunmagar.com.np  
-💻 GitHub: https://github.com/magarasim  
-🔗 LinkedIn: https://www.linkedin.com/in/asim-pun-magar-006922309/  
+- 🌐 Portfolio: https://asimpunmagar.com.np  
+- 💻 GitHub: https://github.com/magarasim  
+- 🔗 LinkedIn: https://www.linkedin.com/in/asim-pun-magar-006922309/  
 
 ---
 
 ## ✨ Professional Philosophy
 
-> "Well-structured code is not just written — it is engineered with clarity, purpose, and scalability in mind."
+> "Code is my way of transforming ideas into structured, scalable, and meaningful solutions."
 
 ---
 
-⭐ Thank you for visiting my profile. I am always open to collaboration, learning opportunities, and professional growth.
+⭐ If my work aligns with your interests or opportunities, feel free to explore my repositories and connect.
