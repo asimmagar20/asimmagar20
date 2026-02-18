@@ -1,5 +1,9 @@
+<!-- Animated Typing Header -->
 <h1 align="center">Hi, I'm Asim Pun Magar 👋</h1>
-<h3 align="center">Junior Digital Technology & Software Developer | React • Django • WordPress</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Junior+Digital+Technology+%26+Software+Developer;React+%7C+Django+%7C+Node.js+%7C+WordPress;Building+Structured+%26+Scalable+Web+Applications;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   <a href="https://asimpunmagar.com.np" target="_blank">
@@ -17,15 +21,15 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated and growth-oriented Junior Software Developer based in Nepal with practical experience in full-stack web development.
+I am a motivated and growth-driven Junior Software Developer based in Nepal with practical experience in full-stack web development.
 
-I specialize in building responsive, well-structured, and maintainable web applications using **React, Django, Node.js, and WordPress**. My focus is on clean architecture, scalable solutions, and writing production-ready code that delivers real value.
+I build responsive, structured, and maintainable web applications using **React, Django, Node.js, and WordPress**. My focus is on clean architecture, scalable systems, and writing production-ready code that delivers real value.
 
 - 🌍 Based in Nepal  
-- 💼 Industry experience as a Junior Developer (Internship)  
-- 🧠 Solid foundation in frontend and backend development  
+- 💼 Internship experience as a Junior Developer  
+- 🧠 Strong foundation in frontend and backend development  
 - 🚀 Actively building real-world and production-style projects  
-- 📈 Continuously improving through hands-on development and learning  
+- 📈 Continuously improving through hands-on development  
 
 ---
 
@@ -33,26 +37,26 @@ I specialize in building responsive, well-structured, and maintainable web appli
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### ⚙ Frameworks & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,supabase,wordpress" />
 </p>
 
-### 🛠 Tools & Development Workflow
+### 🛠 Tools & Workflow
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magarasim&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarasim&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -68,16 +72,16 @@ I specialize in building responsive, well-structured, and maintainable web appli
 ## 🚀 Featured Projects
 
 ### 🔹 Sajilo Yatra  
-A tour and travel platform developed using React, Node.js, and Supabase with REST API integration and responsive interface design.
+A tour and travel platform built with React, Node.js, and Supabase, focusing on REST API integration and responsive interface design.
 
 ### 🔹 Student Management System  
-A Django-based academic management application implementing structured backend logic and CRUD functionality.
+A Django-based academic management application implementing structured backend logic and CRUD operations.
 
 ### 🔹 EasyMy Learning  
-An educational platform built and customized using WordPress with a focus on structured content delivery.
+An educational platform developed and customized using WordPress with structured content and user-focused design.
 
 ### 🔹 Personal Portfolio  
-A professional portfolio website showcasing projects, skills, and continuous technical growth.
+A professional portfolio website showcasing my projects, skills, and continuous technical growth.
 
 ---
 
@@ -86,7 +90,7 @@ A professional portfolio website showcasing projects, skills, and continuous tec
 - Strengthening full-stack application architecture  
 - Building scalable and maintainable web systems  
 - Improving backend structuring and API integration  
-- Advancing expertise in the React and Django ecosystem  
+- Advancing expertise in the React + Django ecosystem  
 
 ---
 
