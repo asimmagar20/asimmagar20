@@ -1,8 +1,8 @@
-<!-- Animated Typing Header -->
+<!-- Header -->
 <h1 align="center">Hi, I'm Asim Pun Magar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Junior+Digital+Technology+%26+Software+Developer;React+%7C+Django+%7C+Node.js+%7C+WordPress;Building+Structured+%26+Scalable+Web+Applications;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=750&lines=Junior+Digital+Technology+%26+Software+Developer;React+%7C+Django+%7C+Node.js+%7C+WordPress;Building+Responsive+%26+Maintainable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -15,6 +15,10 @@
   <a href="https://www.linkedin.com/in/asim-pun-magar-006922309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Asim%20Pun%20Magar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=magarasim&label=Profile%20Views&color=1f6feb&style=flat" />
 </p>
 
 ---
@@ -55,7 +59,7 @@ I build responsive, structured, and maintainable web applications using **React,
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=magarasim&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=magarasim&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -63,16 +67,34 @@ I build responsive, structured, and maintainable web applications using **React,
 ## 🚀 Featured Projects
 
 ### 🔹 Sajilo Yatra  
-A tour and travel platform built with React, Node.js, and Supabase, focusing on REST API integration and responsive interface design.
+A tour and travel platform built with React, Node.js, and Supabase, focusing on REST API integration and responsive interface design.  
+
+🔗 **Repository:**  
+https://github.com/magarasim/Sajilo-Yatra  
+
+---
 
 ### 🔹 Student Management System  
-A Django-based academic management application implementing structured backend logic and CRUD operations.
+A Django-based academic management application implementing structured backend logic and CRUD operations.  
+
+🔗 **Repository:**  
+https://github.com/magarasim/Student-Management-System  
+
+---
 
 ### 🔹 EasyMy Learning  
-An educational platform developed and customized using WordPress with structured content and user-focused design.
+An educational platform developed and customized using WordPress with structured content and user-focused design.  
+
+🌐 **Live Website:**  
+https://easymylearning.in/  
+
+---
 
 ### 🔹 Personal Portfolio  
-A professional portfolio website showcasing my projects, skills, and continuous technical growth.
+A professional portfolio website showcasing my projects, skills, and continuous technical growth.  
+
+🌐 **Live Website:**  
+https://asimpunmagar.com.np  
 
 ---
 
