@@ -18,10 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=magarasim&label=Profile%20Views&color=1f6feb&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
