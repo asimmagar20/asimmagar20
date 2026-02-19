@@ -16,7 +16,7 @@ Junior Digital Technology & Software Developer | React • Django • Node.js �
   <a href="https://asimpunmagar.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://github.com/magarasim" target="_blank">
+  <a href="https://github.com/asimmagar20" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/asim-pun-magar-006922309/" target="_blank">
@@ -99,14 +99,6 @@ A responsive portfolio website showcasing my projects, skills, and continuous te
   <a href="https://asimpunmagar.com.np">
     <img src="https://img.shields.io/badge/Visit_Portfolio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=magarasim&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
