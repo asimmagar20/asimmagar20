@@ -93,7 +93,7 @@ An educational platform built and customized using WordPress with a focus on str
 ## 4) Personal Portfolio
 A responsive portfolio website showcasing my projects, skills, and continuous technical growth.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech Stack:** HTML • CSS • React JS
 
 <p>
   <a href="https://asimpunmagar.com.np">
