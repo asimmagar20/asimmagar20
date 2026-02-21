@@ -9,7 +9,7 @@ Junior Digital Technology & Software Developer | React • Django • Node.js �
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Building+Responsive+Web+Applications;Focused+on+Clean+Architecture;Always+Learning+and+Improving+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Building+Responsive+Web+Applications;Focused+on+Clean+UI;Always+Learning+and+Improving+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
